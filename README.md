@@ -4,7 +4,7 @@
 ## Identitas Mahasiswa
 - Nama: Ghaeran Al Fayyadh
 - NIM: 22515011
-- Program Studi: Teknik Informatika
+- Program Studi: sistem dan teknologi informasi
 - Universitas: Universitas Muhammadiyah Kendari
 
 ## Deskripsi
